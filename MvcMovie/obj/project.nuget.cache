@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uc4q7hcV/VEd5WFmiPsOpvgJTyFux2UrscteQWUJ4oC7H2GkgZ5UNNk7X1XXxuW38V1DU1TMU3r2zYtJHq++iw==",
+  "success": true,
+  "projectFilePath": "/home/sadik/Documents/projects/CSharp-MVC/MvcMovie/MvcMovie.csproj",
+  "expectedPackageFiles": [
+    "/home/sadik/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.0/microsoft.aspnetcore.app.ref.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
