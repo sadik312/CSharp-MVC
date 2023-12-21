@@ -28,3 +28,4 @@
 /home/sadik/Documents/projects/CSharp-MVC/MvcMovie/obj/Debug/net8.0/MvcMovie.pdb
 /home/sadik/Documents/projects/CSharp-MVC/MvcMovie/obj/Debug/net8.0/MvcMovie.genruntimeconfig.cache
 /home/sadik/Documents/projects/CSharp-MVC/MvcMovie/obj/Debug/net8.0/ref/MvcMovie.dll
+/home/sadik/Documents/projects/CSharp-MVC/MvcMovie/obj/Debug/net8.0/MvcMovie.sourcelink.json
